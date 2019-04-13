@@ -1,0 +1,8 @@
+1、查看git的是否安装成功
+ git --version
+
+2、创建文件 使用touch
+ touch app.js
+
+3、git config --global user.name 'hxx'
+git config --global user.email '147722717@qq.com'
