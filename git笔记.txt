@@ -4,5 +4,13 @@
 2、创建文件 使用touch
  touch app.js
 
-3、git config --global user.name 'hxx'
+3、创建用户
+git config --global user.name 'hxx'
 git config --global user.email '147722717@qq.com'
+
+4、git add 文件 （已经添加到队列里面了）
+
+######创建分支#########
+1、git branch login    -----创建分支
+
+2、进入分支 git checkout login    
