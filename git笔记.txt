@@ -17,4 +17,29 @@ git config --global user.email '147722717@qq.com'
 
 
 3、切换分支
+git checkout master(主分支)
+git checkout login(副分支)
+
+
+4、主分支和副分支合并
 git checkout master
+
+
+
+5、查看对应的地址
+git remote
+
+连接仓库
+git remote add origin https://github.com/Marhxx/homework.git
+
+
+6、提交代码
+git push -u origin master
+
+
+
+
+
+
+
+
