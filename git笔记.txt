@@ -14,3 +14,7 @@ git config --global user.email '147722717@qq.com'
 1、git branch login    -----创建分支
 
 2、进入分支 git checkout login    
+
+
+3、切换分支
+git checkout master
